@@ -9,3 +9,15 @@
 ## Libros no gratuitos recomendados.
  - Head First Java: https://www.amazon.es/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=dp_ob_title_bk
  - Cómo programa en java (Versión en pdf accesible!!! http://www.mfbarcell.es/docencia_uned/fund_inf_ing/libros/-%20Como%20Programar%20en%20Java%20Deitel.pdf)
+
+# Tutoriales oficiales de Oracle
+https://docs.oracle.com/javase/tutorial/
+
+# Documentación del JDK
+https://docs.oracle.com/javase/9/
+
+## Documentación de la API (JavaDoc)
+
+https://docs.oracle.com/javase/9/docs/api/overview-summary.html
+
+
